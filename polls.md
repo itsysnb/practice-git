@@ -10,3 +10,4 @@ Rate courses from `1` _(worst)_ to `5` _(best)_.
 ## git course
 
 - yasin `5`
+- Amir `5`
